@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @safirazahiraa
+- 👋 Hi, I’m Saf
 - 👀 I’m interested in Software engineering
 - 🌱 I’m currently learning C++ // Python
 - 💞️ I’m looking to collaborate on ...
